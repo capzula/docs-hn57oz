@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-sbkc53.hartawin.online/sitemap.xml
